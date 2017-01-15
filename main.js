@@ -1,4 +1,4 @@
 function hello(){
-    console.log('changing branch');
+    console.log('changing master');
     return 'hello';
 }
