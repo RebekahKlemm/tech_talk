@@ -1,4 +1,4 @@
 function hello(){
-    console.log('changing master back');
+    console.log('changing master');
     return 'hello';
 }
