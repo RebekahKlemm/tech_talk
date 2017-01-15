@@ -1,4 +1,4 @@
 function hello(){
-    console.log('added this in branch to show conflict with master');
+    console.log('changing branch');
     return 'hello';
 }
