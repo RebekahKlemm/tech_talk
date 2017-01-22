@@ -1,4 +1,4 @@
 function hello(){
-    console.log('changing beer1 again only commit without push');
+    console.log('changing beer1 commit 3');
     return 'hello';
 }
