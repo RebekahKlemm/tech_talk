@@ -1,4 +1,4 @@
 function hello(){
-    console.log('changing master');
+    console.log('changing beer1');
     return 'hello';
 }
